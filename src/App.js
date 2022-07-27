@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import List from "./components/list"
 import { useState,useEffect } from 'react'
